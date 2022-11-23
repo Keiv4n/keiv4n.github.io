@@ -15,9 +15,13 @@ redirect_from:
 
 
 <p align="justify"> Hello and thanks for stopping by! <br> <br>
-My name is Keivan Faghih Niresi (کیوان فقیه نیرسی). I am currently an M.Sc. student in the College of Electrical Engineering and Computer Science at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a>. I joined the <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a>  under the supervision of <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Chong-Yung Chi</a> (IEEE Fellow) in Fall 2020. <br> <br>
-My research interests lie primarily in convex optimization, machine learning, signal processing and inverse problems, with applications in hyperspectral and medical imaging. <br> <br>
-I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
+  
+I am an incoming PhD student at <a href="https://www.epfl.ch/en/" target="\_blank" style="color: #B509AC; text-decoration:none">  École Polytechnique Fédérale de Lausanne (EPFL)</a>. I will join the <a href="https://www.epfl.ch/labs/imos/" target="\_blank" style="color: #B509AC; text-decoration:none">  Intelligent Maintenance and Operations Systems (IMOS)</a> Lab under the supervision of <a href="https://people.epfl.ch/olga.fink?lang=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Olga Fink </a> in February 2023.
+
+My current research interests lie primarily in geometric deep learning, signal processing, and inverse problems, with application to network science, energy systems, and intelligent infrastructure.
+
+Before joining EPFL, I got my master's degree from the <a href="http://www.com.nthu.edu.tw/index.php?Lang=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Institute of Communications Engineering</a>, <a href="https://eecs-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  College of Electrical Engineering and Computer Science</a>, <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a> after doing some research works in convex and non-convex optimization, statistical signal processing, deep learning, and hyperspectral imaging under the supervision of <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Chong-Yung Chi</a> (IEEE Fellow). I also enjoyed working as a machine learning engineer intern at <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. <br> <br>
+  
 
 <p align="center">
   <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/203611693-22a38675-4275-49ee-a0ff-99c6726a13a3.png">
