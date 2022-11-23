@@ -17,10 +17,10 @@ redirect_from:
 <p> Hello and thanks for stopping by! <br> <br>
 My name is Keivan Faghih Niresi (کیوان فقیه نیرسی). I am currently an M.Sc. student in the College of Electrical Engineering and Computer Science at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #B509AC; text-decoration:none">  National Tsing Hua University (NTHU)</a>. I joined the <a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #B509AC; text-decoration:none">  Wireless Communications & Signal Processing (WCSP) Lab</a>  under the supervision of <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Chong-Yung Chi</a> (IEEE Fellow) in Fall 2020. <br> <br>
 My research interests lie primarily in convex optimization, machine learning, signal processing and inverse problems, with applications in hyperspectral and medical imaging. <br> <br>
-I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
+I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications.</p> <br> <br>
 
 <p align="center">
-  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/203611030-03f8a226-8976-4209-a291-234a8acb6e04.png">
+  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/203611693-22a38675-4275-49ee-a0ff-99c6726a13a3.png">
 </p>
  
 <header class="post-header">
