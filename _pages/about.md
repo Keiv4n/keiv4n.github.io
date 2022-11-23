@@ -20,7 +20,7 @@ My research interests lie primarily in convex optimization, machine learning, si
 I also enjoyed working as a machine learning engineer intern in <a href="https://pranaq.com/" target="\_blank" style="color: #B509AC; text-decoration:none">  PranaQ</a>. Before joining NTHU, I got my bachelor's degree in  Electrical Engineering from the University of Guilan after doing some work in signal processing and optical wireless communications. <br> <br>
 
 <p align="center">
-  <img width="500" height="265" src="https://user-images.githubusercontent.com/107177894/173805849-1227dc10-6c2d-4058-9930-1588c93c2c08.png">
+  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/203611030-03f8a226-8976-4209-a291-234a8acb6e04.png">
 </p>
  
 <header class="post-header">
