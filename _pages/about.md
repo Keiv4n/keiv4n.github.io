@@ -60,11 +60,7 @@ has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observa
 <hr/>
 </ul>
 </div>
-    
  
-<p align="center">
-  <img width="1000" height="124" src="https://user-images.githubusercontent.com/107177894/203637984-c534ba8b-3097-4b7d-a67d-1fe1c978d2ca.png">
-</p>
 
   <p align="center">
   <a href="https://info.flagcounter.com/Ymmo"><img src="https://s11.flagcounter.com/count/Ymmo/bg_FFFFFF/txt_000000/border_CCCCCC/columns_6/maxflags_20/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
