@@ -14,8 +14,8 @@ redirect_from:
 
 
 
-<p align="justify"> Hello and thanks for stopping by! <br> <br>
-  
+<p align="justify">
+
 I am an incoming PhD student at <a href="https://www.epfl.ch/en/" target="\_blank" style="color: #B509AC; text-decoration:none">  École Polytechnique Fédérale de Lausanne (EPFL)</a>. I will join the <a href="https://www.epfl.ch/labs/imos/" target="\_blank" style="color: #B509AC; text-decoration:none">  Intelligent Maintenance and Operations Systems (IMOS)</a> Lab under the supervision of <a href="https://people.epfl.ch/olga.fink?lang=en" target="\_blank" style="color: #B509AC; text-decoration:none">  Prof. Olga Fink </a> in February 2023. <br> <br>
 
 My current research interests lie primarily in geometric deep learning, signal processing, and inverse problems, with application to network science, energy systems, and intelligent infrastructure.<br> <br>
@@ -48,11 +48,11 @@ Before joining EPFL, I got my master's degree from the <a href="http://www.com.n
 <div class="News">
 <h2>News</h2>
         <ul>
-          <li><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
+          <li align="justify"><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
 has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>. </li>
-          <li><b>May 2022:</b> I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern! </li>
-          <li><b>September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student! </li>
-          <li><b>September 2019:</b> I graduated from the University of Guilan! </li>
+          <li align="justify"><b>May 2022:</b> I joined <a href="https://pranaq.com/" style="color: #B509AC; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern. </li>
+          <li align="justify"><b>September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #B509AC; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #B509AC; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. </li>
+          <li align="justify"><b>September 2019:</b> I graduated from the University of Guilan. </li>
           
 
 
