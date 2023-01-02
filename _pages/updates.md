@@ -4,7 +4,7 @@ title: "Updates"
 permalink: /updates/
 author_profile: true
 ---
-<br>
+
 <h2 class="year">2022</h2>
 
 <div class="list__item">
