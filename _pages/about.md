@@ -53,7 +53,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> November 2022</p>
-<p>I defended my master’s thesis with full grade at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">National Tsing Hua University (NTHU)</a>.</p>
+<p>I successfully presented and defended my master's thesis with a full grade at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">National Tsing Hua University (NTHU)</a>.</p>
 </article>
 </div>  
 <div class="list__item">
