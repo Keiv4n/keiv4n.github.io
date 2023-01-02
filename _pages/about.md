@@ -27,9 +27,9 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
   <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/210242316-5e13ec32-3793-4a84-a68f-8e390cec11fa.png">
 </p>
  
-<header class="post-header">
-<h2 class="post-title">Featured Publications</h2>
-</header>
+ 
+<div class="Featured Publications">
+<h2>Featured Publication</h2>
 
 <table style="width:100%">
   <tr>
@@ -44,6 +44,8 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
     </th>
   </tr>    
 </table>
+  
+ </div>
 
 <div class="News">
 <h2>News</h2>
