@@ -34,7 +34,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <table style="width:100%">
   <tr>
     <th>
-      <img src="https://user-images.githubusercontent.com/107177894/210254234-e6d5bcd8-8423-466f-b438-146dffd58726.gif" width="200"/>
+      <img src="https://user-images.githubusercontent.com/107177894/210262130-f198ea57-8950-4500-896d-0935d66b67d2.gif" width="200"/>
     </th>
     <th style="text-align:left">
              <span style="font-size:14px">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</span><br><br>
