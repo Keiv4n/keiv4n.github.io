@@ -29,7 +29,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
  
  
 <div class="Featured Publications">
-<h2>Featured Publication</h2>
+<h2>Featured Publications</h2>
 
 <table style="width:100%">
   <tr>
@@ -68,19 +68,8 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <p>I joined&nbsp;<a href="https://pranaq.com/" target="\_blank" style="color: #A7EEF3; text-decoration:none">PranaQ</a>&nbsp;as a machine learning engineer intern.</p>
 </article>
 </div>
-<div class="list__item">
-<article class="archive__item">
-<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> September 2020</p>
-<p>I joined the&nbsp;<a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">National Tsing Hua University (NTHU)</a>&nbsp;and&nbsp;<a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank" style="color: #A7EEF3; text-decoration:none">Wireless Communications &amp; Signal Processing (WCSP) Lab</a>&nbsp;as an M.Sc. student.</p>
-</article>
-</div>
-<div class="list__item">
-<article class="archive__item">
-<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> September 2019</p>
-<p>I graduated from the University of Guilan.</p>
-</article>
-</div>
- 
+
+<a href="https://keiv4n.github.io/updates/" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>See more...</strong> </a> 
 
   <p align="center">
  <a href="https://info.flagcounter.com/Ymmo"><img src="https://s11.flagcounter.com/count2/Ymmo/bg_252A34/txt_FFFFFF/border_252A34/columns_6/maxflags_250/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Free counters!" border="0"></a>
