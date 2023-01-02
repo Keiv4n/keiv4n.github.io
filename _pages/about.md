@@ -54,18 +54,14 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>June 2022</p>
 <p>My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution," has been accepted by&nbsp;<strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>.</p>
-<p class="archive__item-excerpt">&nbsp;</p>
 </article>
 </div>
-
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>May&nbsp;2022</p>
 <p>I joined&nbsp;<a href="https://pranaq.com/" target="\_blank">PranaQ</a>&nbsp;as a machine learning engineer intern.</p>
-<p class="archive__item-excerpt">&nbsp;</p>
 </article>
 </div>
-
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>September 2020</p>
