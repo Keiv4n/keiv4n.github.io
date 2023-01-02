@@ -25,6 +25,7 @@ author_profile: true
 </article>
 </div>
 
+<br>
 <h1 class="year">2020</h1>
 <div class="list__item">
 <article class="archive__item">
@@ -33,6 +34,7 @@ author_profile: true
 </article>
 </div>
 
+<br>
 <h1 class="year">2019</h1>
 <div class="list__item">
 <article class="archive__item">
