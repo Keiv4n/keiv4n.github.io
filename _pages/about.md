@@ -50,18 +50,19 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <div class="News">
 <h2>News</h2>
   
-<b><i class="fa fa-calendar" style="color:silver"> </i>June 2022</b> <br>
+<i class="fa fa-calendar" style="color:silver"> </i>June 2022 <br>
 My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
-has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>.
+has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>. <br><br>
 
-<b><i class="fa fa-calendar" style="color:silver"> </i>May 2022</b> <br>
-I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern.
+<i class="fa fa-calendar" style="color:silver"> </i>May 2022 <br>
+I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern. <br><br>
   
   
-<b><i class="fa fa-calendar" style="color:silver"> </i>September 2020</b> <br>
-I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. <br>
+<i class="fa fa-calendar" style="color:silver"> </i>September 2020 <br>
+I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. <br><br>
 
-<b><i class="fa fa-calendar" style="color:silver"> </i>Septembver 2019</b> <br>I graduated from the University of Guilan.
+<b><i class="fa fa-calendar" style="color:silver"> </i>Septembver 2019</b> <br>
+ I graduated from the University of Guilan.
           
 
 
