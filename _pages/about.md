@@ -24,7 +24,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
   
 
 <p align="center">
-  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/203611693-22a38675-4275-49ee-a0ff-99c6726a13a3.png">
+  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/210242316-5e13ec32-3793-4a84-a68f-8e390cec11fa.png">
 </p>
  
 <header class="post-header">
