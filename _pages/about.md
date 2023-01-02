@@ -49,12 +49,19 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 
 <div class="News">
 <h2>News</h2>
-        <ul>
-          <li align="justify"><b>June 2022:</b> My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
-has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>. </li>
-          <li align="justify"><b>May 2022:</b> I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern. </li>
-          <li align="justify"><b>September 2020:</b> I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. </li>
-          <li align="justify"><b>September 2019:</b> I graduated from the University of Guilan. </li>
+  
+<b><i class="fa fa-calendar" style="color:silver"> </i>June 2022</b> <br>
+My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
+has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>.
+
+<b><i class="fa fa-calendar" style="color:silver"> </i>May 2022</b> <br>
+I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern.
+  
+  
+<b><i class="fa fa-calendar" style="color:silver"> </i>September 2020</b> <br>
+I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. <br>
+
+<b><i class="fa fa-calendar" style="color:silver"> </i>Septembver 2019</b> <br>I graduated from the University of Guilan.
           
 
 
