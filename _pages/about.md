@@ -50,22 +50,27 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <div class="News">
 <h2>News</h2>
   
-<i class="fa fa-calendar" style="color:silver"> </i> June 2022 <br>
-My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution,"
-has been accepted by <b>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</b>. <br><br>
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>June 2022</p>
+<p>My research paper, "Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution," has been accepted by&nbsp;<strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>.</p>
+<p class="archive__item-excerpt">&nbsp;</p>
+</article>
+</div>
 
-<i class="fa fa-calendar" style="color:silver"> </i> May 2022 <br>
-I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">PranaQ</a> as a machine learning engineer intern. <br><br>
-  
-  
-<i class="fa fa-calendar" style="color:silver"> </i> September 2020 <br>
-I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. <br><br>
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>May&nbsp;2022</p>
+<p>I joined&nbsp;<a href="https://pranaq.com/" target="\_blank">PranaQ</a>&nbsp;as a machine learning engineer intern.</p>
+<p class="archive__item-excerpt">&nbsp;</p>
+</article>
+</div>
 
-<i class="fa fa-calendar" style="color:silver"> </i> September 2019 <br>
- I graduated from the University of Guilan.
-          
-        
-<hr/>
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em>September 2020</p>
+<p>I joined the&nbsp;<a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank">National Tsing Hua University (NTHU)</a>&nbsp;and&nbsp;<a href="https://www.ee.nthu.edu.tw/cychi/index.php" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a>&nbsp;as an M.Sc. student.</p>
+</article>
 </div>
  
 
