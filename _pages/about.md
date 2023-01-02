@@ -16,7 +16,7 @@ redirect_from:
 
 <p align="justify">
 
-I am an incoming PhD student at [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/en/). I will join the <a href="https://www.epfl.ch/labs/imos/" target="\_blank" style="text-decoration:none">  Intelligent Maintenance and Operations Systems (IMOS)</a> Lab under the supervision of <a href="https://people.epfl.ch/olga.fink?lang=en" target="\_blank" style="text-decoration:none">  Prof. Olga Fink </a> in February 2023. <br> <br>
+I am an incoming PhD student at <a href="https://www.epfl.ch/en/" target="\_blank" style="text-decoration:none">  École Polytechnique Fédérale de Lausanne (EPFL)</a>. I will join the <a href="https://www.epfl.ch/labs/imos/" target="\_blank" style="text-decoration:none">  Intelligent Maintenance and Operations Systems (IMOS)</a> Lab under the supervision of <a href="https://people.epfl.ch/olga.fink?lang=en" target="\_blank" style="text-decoration:none">  Prof. Olga Fink </a> in February 2023. <br> <br>
 
 My current research interests lie primarily in geometric deep learning, signal processing, and inverse problems, with application to network science, energy systems, and intelligent infrastructure.<br> <br>
 
