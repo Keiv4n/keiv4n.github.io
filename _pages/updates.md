@@ -4,7 +4,7 @@ title: "Updates"
 permalink: /updates/
 author_profile: true
 ---
-<h1 class="year">2022</h1>
+<h2 class="year">2022</h2>
 
 <div class="list__item">
 <article class="archive__item">
@@ -26,7 +26,7 @@ author_profile: true
 </div>
 
 <br>
-<h1 class="year">2020</h1>
+<h2 class="year">2020</h2>
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> September 2020</p>
@@ -35,7 +35,7 @@ author_profile: true
 </div>
 
 <br>
-<h1 class="year">2019</h1>
+<h2 class="year">2019</h2>
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> September 2019</p>
