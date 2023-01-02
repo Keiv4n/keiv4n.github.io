@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Updates"
-permalink: /publications/
+permalink: /updates/
 author_profile: true
 ---
 <h1 class="year">2022</h1>
