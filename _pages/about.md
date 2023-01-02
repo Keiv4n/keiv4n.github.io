@@ -61,7 +61,7 @@ I joined <a href="https://pranaq.com/" style="color: #A7EEF3; text-decoration:no
 <i class="fa fa-calendar" style="color:silver"> </i> September 2020 <br>
 I joined the <a href="https://nthu-en.site.nthu.edu.tw/" style="color: #A7EEF3; text-decoration:none;" target="\_blank">National Tsing Hua University (NTHU)</a> and <a href="https://www.ee.nthu.edu.tw/cychi/index.php" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Wireless Communications &amp; Signal Processing (WCSP) Lab</a> as an M.Sc. student. <br><br>
 
-<b><i class="fa fa-calendar" style="color:silver"> </i> September 2019</b> <br>
+<i class="fa fa-calendar" style="color:silver"> </i> September 2019 <br>
  I graduated from the University of Guilan.
           
         
