@@ -32,11 +32,11 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <h2>Featured Publications</h2>
 
 <table style="width:100%">
-  <tr>
+  <tr style="border: none;">
     <th>
       <img src="https://user-images.githubusercontent.com/107177894/210262130-f198ea57-8950-4500-896d-0935d66b67d2.gif" width="200"/>
     </th>
-    <th style="text-align:left">
+    <th style="text-align:left" "border: none;">
              <span style="font-size:14px"><a href="https://ieeexplore.ieee.org/document/9813381" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</strong> </a></span><br><br>
             <span style="font-size:13px">Keivan Faghih Niresi<span style="font-weight:normal">, and Chong-Yung Chi</span></span><br><br>
      <span style="font-weight:normal;font-size:13px">IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2022</span><br><br>
