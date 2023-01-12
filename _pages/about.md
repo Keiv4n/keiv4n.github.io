@@ -61,7 +61,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> June 2022</p>
-<p>My research paper, "<a href="https://ieeexplore.ieee.org/document/9813381" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</a></span>", has been accepted by&nbsp;<strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>.</p>
+<p>My research paper, "<a href="https://ieeexplore.ieee.org/document/9813381" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Unsupervised Hyperspectral Denoising Based on Deep Image Prior and Least Favorable Distribution</a>", has been accepted by&nbsp;<strong>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</strong>.</p>
 </article>
 </div>
 <div class="list__item">
