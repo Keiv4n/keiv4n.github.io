@@ -73,7 +73,3 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <a href="https://keiv4n.github.io/updates/" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>See more...</strong> </a> 
   
   <br>
-
-  <p align="center">
- <a href="https://info.flagcounter.com/Ymmo"><img src="https://s11.flagcounter.com/count2/Ymmo/bg_252A34/txt_FFFFFF/border_252A34/columns_6/maxflags_250/viewers_3/labels_0/pageviews_0/flags_0/percent_0/" alt="Free counters!" border="0"></a>
-    </p>
