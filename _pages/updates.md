@@ -5,12 +5,20 @@ permalink: /updates/
 author_profile: true
 ---
 
+<h2 class="year">2023</h2>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> January&nbsp;2023</p>
+<p align="justify">Our research paper, "<a href="https://ieeexplore.ieee.org/abstract/document/10032531" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Robust Hyperspectral Inpainting via Low-Rank Regularized Untrained Convolutional Neural Network</a>", has been accepted by&nbsp;<strong>IEEE Geoscience and Remote Sensing Letters</strong>.</p>
+</article>
+
 <h2 class="year">2022</h2>
 
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> November 2022</p>
-<p>I successfully presented and defended my master's thesis with a full grade at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">National Tsing Hua University (NTHU)</a>.</p>
+<p align="justify">I successfully presented and defended my master's thesis with a full grade at the <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">National Tsing Hua University (NTHU)</a>.</p>
 </article>
 </div>  
 <div class="list__item">
