@@ -32,7 +32,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <h2>Featured Publications</h2>
 
 <table style="width:100%">
-  <tr style="border: none;">
+  <tr style="border: solid;">
     <th>
       <img src="https://user-images.githubusercontent.com/107177894/219032448-2475d5dd-44ac-418e-9072-a6044d060663.gif" width="200"/>
     </th>
