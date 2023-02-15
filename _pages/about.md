@@ -32,7 +32,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <h2>Featured Publications</h2>
 
 <table style="width:100%">
-  <tr style="border: solid; border-color: #112232">
+  <tr style="border: solid; border-color: gray">
     <th>
       <img src="https://user-images.githubusercontent.com/107177894/219032448-2475d5dd-44ac-418e-9072-a6044d060663.gif" width="200"/>
     </th>
@@ -43,7 +43,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
  <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:LightSkyBlue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10032531" style="color: LightSkyBlue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fab fa-github" style="color:Aquamarine"></i> <a href="https://github.com/Keiv4n/R-DLRHyIn" style="color: Aquamarine; text-decoration:none;" target="\_blank">Code</a> </span>
     </th>
   </tr>    
-    <tr style="border: solid; border-color: #112232">
+    <tr style="border: solid; border-color: gray">
     <th>
       <img src="https://user-images.githubusercontent.com/107177894/210262130-f198ea57-8950-4500-896d-0935d66b67d2.gif" width="200"/>
     </th>
