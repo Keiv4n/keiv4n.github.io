@@ -70,13 +70,13 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
-<p align="justify">I am currently visiting Section of Automation & Control at Aalborg University.</p>
+<p align="justify">I am currently visiting <a href="https://www.en.tech.aau.dk/research/research-groups/automation-control" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Section of Automation & Control</a> at <a href="https://www.en.aau.dk/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Aalborg University</a>.</p>
 </article>
 
 <div class="list__item">
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> February&nbsp;2024</p>
-<p align="justify">I have successfully passed my PhD candidacy exam!</p>
+<p align="justify">I have successfully passed my PhD candidacy exam at <a href="https://www.epfl.ch/en/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  EPFL</a>!</p>
 </article>
 
   
