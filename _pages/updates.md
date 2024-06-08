@@ -4,8 +4,41 @@ title: "Updates"
 permalink: /updates/
 author_profile: true
 ---
+<h2 class="year">2024</h2>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
+<p align="justify">Our research paper, "<a href="https://arxiv.org/abs/2406.03898" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation</a>", has been accepted by&nbsp;<strong>EUSIPCO 2024</strong>. See you in Lyon!</p>
+</article>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
+<p align="justify">I am currently visiting Section of Automation & Control at Aalborg University.</p>
+</article>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> February&nbsp;2024</p>
+<p align="justify">I have successfully passed my PhD candidacy exam!</p>
+</article>
+
 
 <h2 class="year">2023</h2>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> August&nbsp;2023</p>
+<p align="justify">Our research paper, "<a href="https://ieeexplore.ieee.org/abstract/document/10325090" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Spatial-Temporal Graph Attention Fuser for Calibration in IoT Air Pollution Monitoring Systems</a>", has been accepted by&nbsp;<strong>IEEE SENSORS 2023</strong>. See you in Vienna!</p>
+</article>
+
+<div class="list__item">
+<article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> February 2023</p>
+<p align="justify">I have started my Ph.D. at <a href="https://www.epfl.ch/en/" target="\_blank" style="color: #A7EEF3; text-decoration:none">EPFL</a>.</p>
+</article>
+</div>  
 
 <div class="list__item">
 <article class="archive__item">
