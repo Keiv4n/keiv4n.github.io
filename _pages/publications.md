@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <h2 class="year">2023</h2>
+
+ <span style="font-size:14px"><a href="https://ieeexplore.ieee.org/abstract/document/10325090" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>Spatial-Temporal Graph Attention Fuser for Calibration in IoT Air Pollution Monitoring Systems</strong> </a></span><br>
+            <span style="font-size:13px"><strong>Keivan Faghih Niresi</strong><span style="font-weight:normal">, Mengjie Zhao, Hugo Bissig, Henri Baumann, Olga Fink</span></span><br>
+     <span style="font-weight:normal;font-size:13px">IEEE SENSORS, 2023</span><br>
+ <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:LightSkyBlue"></i> <a href="https://ieeexplore.ieee.org/abstract/document/10325090" style="color: LightSkyBlue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:Coral"></i> <a href="https://arxiv.org/pdf/2309.04508" style="color: Coral; text-decoration:none;" target="\_blank">PDF</a></span>
+
  <span style="font-size:14px"><a href="https://ieeexplore.ieee.org/abstract/document/10032531" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>Robust Hyperspectral Inpainting via Low-Rank Regularized Untrained Convolutional Neural Network</strong> </a></span><br>
             <span style="font-size:13px"><strong>Keivan Faghih Niresi</strong><span style="font-weight:normal">, and Chong-Yung Chi</span></span><br>
      <span style="font-weight:normal;font-size:13px">IEEE Geoscience and Remote Sensing Letters, 2023</span><br>
