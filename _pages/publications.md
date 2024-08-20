@@ -9,7 +9,7 @@ author_profile: true
 
  <span style="font-size:14px"><a href="https://ieeexplore.ieee.org/document/10638707" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>Physics-Enhanced Graph Neural Networks for Soft Sensing in Industrial Internet of Things</strong> </a></span><br>
             <span style="font-size:13px"><strong>Keivan Faghih Niresi</strong><span style="font-weight:normal">, Hugo Bissig, Henri Baumann, and Olga Fink</span></span><br>
-     <span style="font-weight:normal;font-size:13px">IEEE Geoscience and Remote Sensing Letters, 2023</span><br>
+     <span style="font-weight:normal;font-size:13px">IEEE Internet of Things Journal, 2024</span><br>
  <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:LightSkyBlue"></i> <a href="https://ieeexplore.ieee.org/document/10638707" style="color: LightSkyBlue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:Coral"></i> <a href="https://arxiv.org/abs/2404.08061" style="color: Coral; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:Aquamarine"></i> <a href="https://github.com/EPFL-IMOS/PEGNN_SS/" style="color: Aquamarine; text-decoration:none;" target="\_blank">Code</a></span>
 
 
