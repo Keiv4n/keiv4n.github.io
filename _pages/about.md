@@ -63,7 +63,7 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 
 <div class="list__item">
 <article class="archive__item">
-<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> July&nbsp;2024</p>
 <p align="justify">Our research paper, "<a href="https://ieeexplore.ieee.org/document/10638707" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things</a>", has been accepted by&nbsp;<strong>IEEE Internet of Things Journal!</strong></p>
 </article>
 
