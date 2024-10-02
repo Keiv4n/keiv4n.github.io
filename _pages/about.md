@@ -18,14 +18,9 @@ redirect_from:
 
 I am a PhD student at <a href="https://www.epfl.ch/en/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  École Polytechnique Fédérale de Lausanne (EPFL)</a>. I joined the <a href="https://www.epfl.ch/labs/imos/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Intelligent Maintenance and Operations Systems (IMOS)</a> Lab under the supervision of <a href="https://people.epfl.ch/olga.fink?lang=en" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Prof. Olga Fink </a> in February 2023. <br> <br>
 
-My current research interests lie primarily in geometric deep learning, signal processing, and inverse problems, with application to network science, computational sensing, and the internet of things.<br> <br>
+My current research interests lie primarily in geometric deep learning, signal processing, and inverse problems, with application to network science, computational sensing, and intelligent infrastructure systems.<br> <br>
 
 Prior to joining EPFL, I obtained my master's degree from the <a href="http://www.com.nthu.edu.tw/index.php?Lang=en" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Institute of Communications Engineering</a>, <a href="https://eecs-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  College of Electrical Engineering and Computer Science</a>, <a href="https://nthu-en.site.nthu.edu.tw/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  National Tsing Hua University (NTHU)</a> where I conducted research in convex and non-convex optimization, statistical signal processing, deep learning, and hyperspectral imaging under the supervision of <a href="https://scholar.google.com.tw/citations?user=QzDAeT8AAAAJ&hl=en" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Prof. Chong-Yung Chi</a> (IEEE Fellow). I also had the opportunity to work as a machine learning engineer intern at <a href="https://pranaq.com/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  PranaQ</a>, where I focused on developing signal processing and feature extraction algorithms for biomedical signals such as photoplethysmogram (PPG) and electrocardiogram (ECG). <br> <br>
-  
-
-<p align="center">
-  <img width="500" height="349" src="https://user-images.githubusercontent.com/107177894/210242316-5e13ec32-3793-4a84-a68f-8e390cec11fa.png">
-</p>
  
  
 <div class="Featured Publications">
