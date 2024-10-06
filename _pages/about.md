@@ -29,6 +29,18 @@ Prior to joining EPFL, I obtained my master's degree from the <a href="http://ww
 <table style="width:100%">
   <tr style="border: solid; border-color: gray">
     <th>
+      <img src="https://raw.githubusercontent.com/Keiv4n/keiv4n.github.io/refs/heads/master/images/pegnn.png" width="200"/>
+    </th>
+    <th style="text-align:left">
+             <span style="font-size:14px"><a href="https://ieeexplore.ieee.org/document/10638707" style="color: #A7EEF3; text-decoration:none;" target="\_blank"><strong>Physics-Enhanced Graph Neural Networks for Soft Sensing in Industrial Internet of Things</strong> </a></span><br><br>
+            <span style="font-size:13px"><strong>Keivan Faghih Niresi</strong><span style="font-weight:normal">, Hugo Bissig, Henri Baumann, and Olga Fink</span></span><br><br>
+     <span style="font-weight:normal;font-size:13px">IEEE Internet of Things Journal, 2024</span><br><br>
+ <span style="font-weight:normal;font-size:14px"><i class="fa fa-file" style="color:LightSkyBlue"></i> <a href="https://ieeexplore.ieee.org/document/10638707" style="color: LightSkyBlue; text-decoration:none;" target="\_blank">IEEE Xplore</a> | <i class="fas fa-file-pdf" style="color:Coral"></i> <a href="https://arxiv.org/abs/2404.08061" style="color: Coral; text-decoration:none;" target="\_blank">PDF</a> | <i class="fab fa-github" style="color:Aquamarine"></i> <a href="https://github.com/EPFL-IMOS/PEGNN_SS/" style="color: Aquamarine; text-decoration:none;" target="\_blank">Code</a></span>
+    </th>
+  </tr> 
+  
+  <tr style="border: solid; border-color: gray">
+    <th>
       <img src="https://user-images.githubusercontent.com/107177894/219032448-2475d5dd-44ac-418e-9072-a6044d060663.gif" width="200"/>
     </th>
     <th style="text-align:left">
