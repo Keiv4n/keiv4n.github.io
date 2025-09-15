@@ -73,6 +73,12 @@ The foundation of my research lies in advancing computational sensing and imagin
 
 <div class="list__item">
 <article class="archive__item">
+<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> July&nbsp;2025</p>
+<p align="justify">Our research paper, "<a href="https://ieeexplore.ieee.org/document/11121069" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Efficient Unsupervised Domain Adaptation Regression for Spatial-Temporal Sensor Fusion</a>", has been accepted by&nbsp;<strong>IEEE Internet of Things Journal!</strong></p>
+</article>
+
+<div class="list__item">
+<article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> July&nbsp;2024</p>
 <p align="justify">Our research paper, "<a href="https://ieeexplore.ieee.org/document/10638707" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Physics-Enhanced Graph Neural Networks For Soft Sensing in Industrial Internet of Things</a>", has been accepted by&nbsp;<strong>IEEE Internet of Things Journal!</strong></p>
 </article>
@@ -81,12 +87,6 @@ The foundation of my research lies in advancing computational sensing and imagin
 <article class="archive__item">
 <p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
 <p align="justify">Our research paper, "<a href="https://arxiv.org/abs/2406.03898" style="color: #A7EEF3; text-decoration:none;" target="\_blank">Informed Graph Learning By Domain Knowledge Injection and Smooth Graph Signal Representation</a>", has been accepted by&nbsp;<strong>EUSIPCO 2024</strong>. See you in Lyon!</p>
-</article>
-
-<div class="list__item">
-<article class="archive__item">
-<p class="page__meta"><em class="fa fa-calendar">&nbsp;</em> May&nbsp;2024</p>
-<p align="justify">I am currently visiting <a href="https://www.en.tech.aau.dk/research/research-groups/automation-control" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Section of Automation & Control</a> at <a href="https://www.en.aau.dk/" target="\_blank" style="color: #A7EEF3; text-decoration:none">  Aalborg University</a>.</p>
 </article>
 
   
