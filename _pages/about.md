@@ -19,7 +19,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-## About Me
 
 I am a Ph.D. student at  <a href='https://www.epfl.ch/en/'>EPFL</a> within the [Intelligent Maintenance and Operations Systems (IMOS) Laboratory](https://www.epfl.ch/labs/imos/), supervised by [Prof. Olga Fink](https://people.epfl.ch/olga.fink?lang=en). My research focuses on developing reliable data-driven computational sensing methods by leveraging signal processing and machine learning on graphs. During my doctoral studies, I also conducted a research visit at the [University of Cambridge](https://www.cam.ac.uk/) within the [Data, Vibration, and Uncertainty (DVU) Group](https://sites.google.com/view/dvugroup/home), working under the supervision of [Prof. Alice Cicirello](https://www.eng.cam.ac.uk/profiles/ac685).
 
