@@ -6,5 +6,5 @@ nav: true
 ---
 
 <div class="publications">
-  {% bibliography -f papers -q @** %}
+  {% bibliography -f papers -q @* %}
 </div>
