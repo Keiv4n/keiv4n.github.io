@@ -42,6 +42,6 @@ I also had the opportunity to work as a machine learning engineer intern at
 <a href="https://pranaq.com/" target="_blank">PranaQ</a>, 
 where I focused on developing mathematical algorithms for multimodal biomedical data. 
 
-<br>
+<br><br>
 
 The foundation of my research lies in advancing computational sensing and imaging through the development of innovative algorithms and mathematical frameworks. I am particularly interested in topics at the intersection of machine learning, signal processing, and computational mathematics, such as inverse problems, graph representation learning, domain adaptation, physics-informed learning, and optimization. These methods are applied to diverse applications, including low-level vision (image restoration, fusion, compression, etc.), Internet of things, remote sensing, intelligent infrastructures, and smart cities. My research emphasizes two key aspects: 1) exploring the fundamental mathematical principles of sensing, and 2) pursuing application-driven projects through collaborations with experts from various disciplines such as electrical engineering, computer science, civil and environmental engineering, applied mathematics, mechanical engineering, and physics.
