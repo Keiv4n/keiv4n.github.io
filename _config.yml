@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Keivan
 middle_name:
 last_name: Faghih Niresi
-email: keivan.faghihniresia@epfl.ch
+email: keivan.faghihniresi@epfl.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Keivan Faghih Niresi's personal website.
 footer_text: >
