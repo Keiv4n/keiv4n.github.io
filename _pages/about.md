@@ -33,3 +33,5 @@ The foundation of my research lies in advancing computational sensing and imagin
 My research emphasizes two key aspects:  
 1. Exploring the fundamental mathematical principles of sensing  
 2. Pursuing application-driven projects through collaborations with experts from various disciplines such as electrical engineering, computer science, civil and environmental engineering, applied mathematics, mechanical engineering, and physics
+
+For a complete list of publications, check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=3qQfrzwAAAAJ).
