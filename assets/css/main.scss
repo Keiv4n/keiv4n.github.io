@@ -13,3 +13,14 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+.publications img,
+.bibliography img,
+img.preview,
+img.pub-preview,
+img.thumbnail {
+  width: 180px !important;
+  height: 120px !important;
+  object-fit: cover !important;
+  display: block;
+}
