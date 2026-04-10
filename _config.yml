@@ -3,22 +3,22 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Manuel
+first_name: Keivan
 middle_name:
-last_name: Madeira
-email: manuel.madeira@epfl.ch
+last_name: Faghih Niresi
+email: keivan.faghihniresia@epfl.ch
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Manuel Madeira's personal website.
+  Keivan Faghih Niresi's personal website.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: Manuel, Madeira, personal, web, site, page, machine learning, artificial intelligence  # add your own keywords or leave empty
+keywords: Keivan, Niresi, personal, web, site, page, signal processing, graph, machine learning, artificial intelligence  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 💡 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://manuelmlmadeira.github.io # the base hostname & protocol for your site
+url: https://keiv4n.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -67,13 +67,13 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: manuelmlmadeira # your GitHub user name
+github_username: keiv4n # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: manuelmlmadeira # your Twitter handle
+twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: manuel-madeira # your LinkedIn user name
 telegram_username: # your Telegram user name
-scholar_userid: OhijpAwAAAAJ # your Google Scholar ID
+scholar_userid: 3qQfrzwAAAAJ # your Google Scholar ID
 semanticscholar_id: # your Semantic Scholar ID
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 orcid_id: # your ORCID ID
@@ -82,7 +82,7 @@ quora_username: # your Quora username
 publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
-work_url: https://people.epfl.ch/manuel.madeira?lang=en # work page URL
+work_url: https://people.epfl.ch/keivan.faghihniresi?lang=en # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
@@ -103,10 +103,10 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics: G-6BNW5R0VXG # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
-google_site_verification: -mRHvwnHdFYIa-KaKIgZIGLfsdeDLGZ9rZEsWECSiuE # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
