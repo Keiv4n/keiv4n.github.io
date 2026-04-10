@@ -8,7 +8,7 @@ subtitle: Ph.D. Candidate in Machine Learning and Signal Processing at <a href='
 
 profile:
   align: left
-  image: profile.png
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: 
   # address: >
