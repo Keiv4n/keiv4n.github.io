@@ -5,4 +5,6 @@ permalink: /publications/
 nav: true
 ---
 
-{% bibliography %}
+<div class="publications">
+  {% bibliography -f papers -q @** %}
+</div>
