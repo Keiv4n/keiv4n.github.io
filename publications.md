@@ -2,9 +2,6 @@
 layout: page
 title: Publications
 permalink: /publications/
-nav: true
 ---
 
-<div class="publications">
-  {% bibliography -f papers}
-</div>
+{% bibliography -f papers -q @* %}
