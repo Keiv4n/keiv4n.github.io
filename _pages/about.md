@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate in Machine Learning and Signal Processing at <a href='https://www.epfl.ch/en/'>EPFL</a>
+subtitle: Doctoral Researcher at <a href='https://www.epfl.ch/en/'>EPFL</a>
 #Do not go gentle into that good night
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
