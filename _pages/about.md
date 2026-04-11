@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Doctoral Researcher at "<a href='https://www.epfl.ch/en/' style='color:#E1001A;'>EPFL</a>"
+subtitle: Doctoral Researcher at <a href="https://www.epfl.ch/en/" style="color:#E1001A;">EPFL</a>'
 #Do not go gentle into that good night
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
