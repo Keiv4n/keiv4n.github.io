@@ -28,5 +28,3 @@ Prior to joining EPFL, I earned my master's degree from the [Institute of Commun
 The foundation of my research lies in advancing computational sensing through the development of mathematical frameworks and algorithms. I am particularly interested in topics at the intersection of machine learning, signal processing, and computational mathematics, such as inverse problems, graph representation learning, domain adaptation, physics-informed learning, uncertainty quantification, and optimization.
 
 For a complete list of publications, check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=3qQfrzwAAAAJ).
-
-<div style="margin-bottom: 3rem"></div>
