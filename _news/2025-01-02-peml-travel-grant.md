@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I received a **Travel Grant** awarded the Institute of Physics (IoP) for the [Physics-Enhancing Machine Learning (PEML) Workshop](https://iop.eventsair.com/peml2025/), London, United Kingdom.
+I received a **Travel Grant** awarded by the Institute of Physics (IoP) for the [Physics-Enhancing Machine Learning (PEML) Workshop](https://iop.eventsair.com/peml2025/), London, United Kingdom.
