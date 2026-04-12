@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I gave an invited talk on "Conformalizing Spatial-Temporal Graph Neural Networks with In-Context Learning" at the [Dynamics and Vibration Tea Time Talks](https://sites.google.com/view/dvugroup/home), University of Cambridge, UK.
+I gave an invited talk on "Conformalizing Spatial-Temporal Graph Neural Networks with In-Context Learning" at the [Dynamics and Vibration Tea Time Talks](https://talks.cam.ac.uk/talk/index/241441), University of Cambridge, UK.
