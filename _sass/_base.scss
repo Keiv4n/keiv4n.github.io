@@ -724,3 +724,9 @@ progress {
      display: block;
      height: inherit;
  }
+
+@media (max-width: 768px) {
+  .news-scroll {
+    max-height: 50vh !important;
+  }
+}
