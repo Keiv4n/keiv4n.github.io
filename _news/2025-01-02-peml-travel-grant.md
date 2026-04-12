@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-01-02 00:00:00-0000
+date: 2025-09-15 00:00:00-0000
 inline: true
 related_posts: false
 ---
 
-I received a **Travel Grant** awarded by the [Physics-Enhancing Machine Learning (PEML) Workshop](https://iop.eventsair.com/peml2025/) at the Institute of Physics, London.
+I received a **Travel Grant** awarded the Institute of Physics (IoP) for the [Physics-Enhancing Machine Learning (PEML) Workshop](https://iop.eventsair.com/peml2025/), London, United Kingdom.
