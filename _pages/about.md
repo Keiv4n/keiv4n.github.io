@@ -7,7 +7,7 @@ subtitle: Doctoral Researcher in Machine Learning at <a href="https://www.epfl.c
 #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: left
+  align: center
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   # address: 
