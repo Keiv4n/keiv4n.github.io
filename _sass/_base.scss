@@ -39,6 +39,7 @@ figure, img {
 blockquote {
   font-size: 1rem;
   background: #e3e0c5;
+  border-left: 2px solid var(--global-theme-color);
   padding: 0.8rem 1rem;
   border-radius: 4px;
 }
