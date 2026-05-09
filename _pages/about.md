@@ -27,6 +27,6 @@ Prior to joining EPFL, I earned my master's degree from the [Institute of Commun
 
 The foundation of my research lies in advancing computational sensing through the development of mathematical frameworks and algorithms. I am particularly interested in topics at the intersection of machine learning, signal processing, and computational mathematics, such as inverse problems, graph representation learning, domain adaptation, physics-informed learning, uncertainty quantification, and optimization.
 
-> I am always open to discussions and collaborations on topics related to my interests. Please feel free to get in touch via email. I am currently on the job market for academic positions, such as postdoctoral or faculty roles, as well as research positions in industry.
+> *I am always open to discussions and collaborations on topics related to my research interests, so please feel free to get in touch via email. I am also currently on the job market for faculty, postdoctoral, or industry research positions starting in Fall 2026.*
 
 For a complete list of publications, check my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=3qQfrzwAAAAJ).
