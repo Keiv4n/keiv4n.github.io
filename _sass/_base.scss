@@ -39,9 +39,9 @@ figure, img {
 blockquote {
   font-size: 1rem;
   background: var(--global-bg-color);
-  border: 2px solid var(--global-theme-color);
+  border-left: 3px solid var(--global-theme-color);
+  border-radius: 4px;
   padding: 0.8rem 1rem;
-  border-radius: 8px;
 }
 blockquote p {
   margin-bottom: 0;
