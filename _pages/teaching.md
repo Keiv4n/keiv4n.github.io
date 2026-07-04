@@ -12,7 +12,8 @@ My teaching experience spans data science, machine learning, mathematics, optimi
 
 ## Teaching Assistant
 
-### École Polytechnique Fédérale de Lausanne (EPFL)  
+**École Polytechnique Fédérale de Lausanne (EPFL)**
+
 *Lausanne, Switzerland*
 
 | Course | Period |
@@ -24,7 +25,8 @@ My teaching experience spans data science, machine learning, mathematics, optimi
 
 ---
 
-### National Tsing Hua University (NTHU)  
+**National Tsing Hua University (NTHU)**
+
 *Hsinchu, Taiwan*
 
 | Course | Period |
@@ -33,7 +35,8 @@ My teaching experience spans data science, machine learning, mathematics, optimi
 
 ---
 
-### University of Guilan  
+**University of Guilan**
+
 *Rasht, Iran*
 
 | Course | Period |
