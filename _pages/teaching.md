@@ -9,7 +9,7 @@ nav_order: 4
 My teaching experience spans data science, machine learning, mathematics, optimization, and electrical engineering. I have served as a teaching assistant at EPFL, National Tsing Hua University, and the University of Guilan, supporting courses at both undergraduate and graduate levels.
 
  
-**Teaching Assistant**
+## Teaching Assistant ##
 
 | Course | Institution | Period |
 |---|---|---|
@@ -17,6 +17,6 @@ My teaching experience spans data science, machine learning, mathematics, optimi
 | Machine Learning for Predictive Maintenance Applications | EPFL | Fall 2023, Fall 2024 |
 | Analysis I | EPFL | Fall 2024 |
 | Analysis II | EPFL | Spring 2025 |
-| Introduction to Convex Optimization | National Tsing Hua University | Spring 2021, Spring 2022 |
+| Introduction to Convex Optimization | NTHU | Spring 2021, Spring 2022 |
 | Electrical Circuits I | University of Guilan | Spring 2018, Fall 2018, Spring 2019 |
 | Communications Circuits | University of Guilan | Spring 2019 |
