@@ -13,3 +13,9 @@ $max-content-width: {{ site.max_width }};
   "base",
   "distill"
 ;
+
+// Justify body text
+p {
+  text-align: justify;
+  hyphens: auto;
+}
