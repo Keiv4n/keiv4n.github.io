@@ -11,11 +11,8 @@ My research lies at the intersection of machine learning, signal processing, and
 
 <div class="row mt-3 mb-4">
   <div class="col-sm-12">
-    {% include figure.liquid
-      path="assets/img/researchoverview.png"
-      class="img-fluid rounded z-depth-1"
-      alt="Overview"
-    %}
+    <img src="/assets/img/researchoverview.png"
+         class="img-fluid rounded z-depth-1"
   </div>
 </div>
 
