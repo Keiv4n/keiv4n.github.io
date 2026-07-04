@@ -9,7 +9,7 @@ nav_order: 4
 My teaching experience spans data science, machine learning, mathematics, optimization, and electrical engineering. I have served as a teaching assistant at EPFL, National Tsing Hua University, and the University of Guilan, supporting courses at both undergraduate and graduate levels.
 
  
-## Teaching Assistant
+**Teaching Assistant**
 
 | **Course** | **Institution** | **Period** |
 |---|---|---|
