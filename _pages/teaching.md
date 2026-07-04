@@ -6,9 +6,12 @@ nav: true
 nav_order: 4
 ---
 
+<div style="text-align: justify;" markdown="1">
+
 My teaching experience spans data science, machine learning, mathematics, optimization, and electrical engineering. I have served as a teaching assistant at EPFL, National Tsing Hua University, and the University of Guilan, supporting courses at both undergraduate and graduate levels.
 
- 
+</div>
+
 ## Teaching Assistant
 
 <table style="width: 100%; border-collapse: collapse;">
