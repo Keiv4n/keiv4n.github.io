@@ -11,7 +11,7 @@ My teaching experience spans data science, machine learning, mathematics, optimi
  
 ## Teaching Assistant
 
-| Course | Institution | Period |
+| **Course** | **Institution** | **Period** |
 |---|---|---|
 | Data Science for Infrastructure Condition Monitoring | EPFL | Spring 2023, Spring 2024, Spring 2025, Spring 2026 |
 | Machine Learning for Predictive Maintenance Applications | EPFL | Fall 2023, Fall 2024 |
