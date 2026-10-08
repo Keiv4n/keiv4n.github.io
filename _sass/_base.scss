@@ -124,10 +124,19 @@ blockquote p {
   }
 }
 
-// Reduce the profile photo on phones only; tablet/desktop sizing is unchanged.
+// On phones, keep the photo at 70% width with the biography below it.
+// Override Bootstrap's floated profile class only at this breakpoint.
 @media (max-width: 575.98px) {
   .profile {
     width: 70%;
+  }
+
+  .profile.float-left,
+  .profile.float-right {
+    float: none !important;
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 1rem;
   }
 }
 
