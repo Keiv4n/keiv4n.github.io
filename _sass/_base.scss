@@ -124,6 +124,13 @@ blockquote p {
   }
 }
 
+// Reduce the profile photo on phones only; tablet/desktop sizing is unchanged.
+@media (max-width: 575.98px) {
+  .profile {
+    width: 70%;
+  }
+}
+
 .post-description {
   margin-bottom: 2rem;
   font-size: 0.875rem;
