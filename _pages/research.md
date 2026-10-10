@@ -6,35 +6,79 @@ nav: true
 nav_order: 2
 ---
 
-<div style="text-align: justify;" markdown="1">
+<section class="research-page" aria-label="Research overview">
+  <p class="research-page__intro">
+    My research lies at the intersection of machine learning, signal processing, and computational sensing. I develop methods that exploit the structure of sensor networks and physical systems to recover missing information, learn from limited measurements, and provide reliable predictions.
+  </p>
 
-My research lies at the intersection of machine learning, signal processing, and computational sensing. I develop data-driven methods that exploit structure in physical systems, sensor networks, and time-varying signals. The goal is to make sensing systems more accurate, reliable, and interpretable, especially when measurements are sparse, noisy, biased, or expensive to obtain.
-<br><br>
+  <figure class="research-page__overview">
+    <img src="{{ '/assets/img/researchoverview.jpg' | relative_url }}" alt="Overview of research in signal processing, machine learning, and computational sensing" loading="lazy">
+  </figure>
 
-</div>
+  <header class="research-page__heading">
+    <h2 id="research-directions">Research directions</h2>
+    <p>Three complementary directions connect foundational methods with real-world sensing problems.</p>
+  </header>
 
-<div class="row mt-3 mb-4">
-  <div class="col-sm-12">
-    <img src="/assets/img/researchoverview.jpg" class="img-fluid rounded z-depth-1" alt="Overview">
+  <div class="research-page__cards" aria-labelledby="research-directions">
+    <article class="research-card" id="networked-sensing" aria-labelledby="research-networked-title">
+      <div class="research-card__number" aria-hidden="true">01</div>
+      <div>
+        <h3 id="research-networked-title">Computational Sensing for Networked Systems</h3>
+        <p class="research-card__description">
+          Many engineering systems are monitored by distributed sensors whose measurements are physically and temporally coupled. I develop graph-based and physics-informed methods for virtual sensing, sensor fusion, and fault-aware monitoring, with applications in energy infrastructure, industrial IoT, and other networked systems.
+        </p>
+        <ul class="research-card__topics" aria-label="Key topics">
+          <li>Virtual sensing</li>
+          <li>Sensor fusion</li>
+          <li>Physics-informed learning</li>
+        </ul>
+        <div class="research-card__works" aria-label="Representative publications">
+          <span>Selected work</span>
+          <a href="https://doi.org/10.1109/JIOT.2024.3434732">Physics-Enhanced GNNs ↗</a>
+          <a href="https://www.sciencedirect.com/science/article/pii/S0378778826014118">Virtual Smart Metering ↗</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="research-card" id="graph-signal-learning" aria-labelledby="research-graphs-title">
+      <div class="research-card__number" aria-hidden="true">02</div>
+      <div>
+        <h3 id="research-graphs-title">Signal Processing and Machine Learning on Graphs</h3>
+        <p class="research-card__description">
+          I investigate how graph structure can be inferred and used to process signals observed across sensors and time. This includes graph signal separation and reconstruction, spectral filtering, and time-vertex methods for efficient sensing and sensor placement.
+        </p>
+        <ul class="research-card__topics" aria-label="Key topics">
+          <li>Graph inference</li>
+          <li>Signal recovery</li>
+          <li>Sensor placement</li>
+        </ul>
+        <div class="research-card__works" aria-label="Representative publications">
+          <span>Selected work</span>
+          <a href="https://doi.org/10.1109/LSP.2026.3705721">Graph Signal Separation ↗</a>
+          <a href="https://www.sciencedirect.com/science/article/pii/S0951832025013523">Time-Vertex Sensor Placement ↗</a>
+        </div>
+      </div>
+    </article>
+
+    <article class="research-card" id="reliable-learning" aria-labelledby="research-reliability-title">
+      <div class="research-card__number" aria-hidden="true">03</div>
+      <div>
+        <h3 id="research-reliability-title">Robust and Reliable Learning for Inverse Problems</h3>
+        <p class="research-card__description">
+          Incomplete observations, changing operating conditions, and measurement noise create challenging inverse problems. I develop robust learning and uncertainty-aware approaches that combine inverse solvers, domain adaptation, and conformal methods to support dependable predictions from imperfect data.
+        </p>
+        <ul class="research-card__topics" aria-label="Key topics">
+          <li>Inverse problems</li>
+          <li>Domain adaptation</li>
+          <li>Uncertainty quantification</li>
+        </ul>
+        <div class="research-card__works" aria-label="Representative publications">
+          <span>Selected work</span>
+          <a href="https://doi.org/10.1109/TIM.2025.3632427">RINS-T ↗</a>
+          <a href="https://openreview.net/forum?id=pur0JbTRmv">STOIC ↗</a>
+        </div>
+      </div>
+    </article>
   </div>
-</div>
-
-<br>
-
-<div style="text-align: justify;" markdown="1">
-
-**Computational Sensing for Networked Systems**
-
-Distributed sensors increasingly monitor modern engineering systems. Examples include industrial IoT platforms, energy infrastructures, air pollution monitoring systems, and structural health monitoring systems. These systems generate data that evolves over time and are coupled through physical, functional, or relational dependencies. In this research direction, I develop machine learning methods for computational sensing in such networked systems. A central idea is to use graph-based models to represent interactions between sensors, assets, locations, or physical components. These models enable tasks such as sensor fusion, soft sensing, virtual metering, calibration, fault detection, and monitoring under limited sensing coverage.
-<br><br>
-
-**Signal Processing and Machine Learning on Graphs**
-
-Many real-world signals are not naturally defined on regular grids. Instead, they live on irregular structures such as networks, graphs, sensor layouts, or physical systems with nontrivial connectivity. Graph signal processing provides tools for analyzing these signals by explicitly modeling the underlying relational structure. In this research direction, I study methods for learning, processing, and interpreting signals on graphs and time-varying networks. This includes graph inference, graph signal reconstruction, graph signal separation, smooth graph signal representation, sampling, sensor placement, and joint time-vertex analysis. These methods help uncover how information propagates across a system and how measurements can be optimally collected or reconstructed. A key aspect of this work is structured learning. Instead of treating data as independent samples, the model exploits relationships between variables, sensors, and physical components. This leads to more sample-efficient and interpretable methods, especially in science and engineering applications where the structure of the problem carries important information.
-<br><br>
-
-**Robust and Reliable Learning for Inverse Problems**
-
-Real-world sensing systems often operate under uncertainty. Measurements may be corrupted by noise, sensors may fail, domains may shift, and the available data may be insufficient to fully characterize the system. In these settings, reliable learning requires more than high predictive accuracy; models must be robust, uncertainty-aware, and capable of solving ill-posed inverse problems. In this research direction, I develop methods for robust learning, uncertainty quantification, conformal inference, and inverse problem solving. This includes both time-series inverse problems and computational imaging problems. The broader goal is to recover meaningful signals from incomplete or degraded observations while providing a measure of confidence in the output. This direction connects classical signal processing, optimization, robust statistics, and modern deep learning.
-
-</div>
+</section>
