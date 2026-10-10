@@ -8,7 +8,7 @@ nav_order: 2
 
 <section class="research-page" aria-label="Research overview">
   <p class="research-page__intro">
-    My research lies at the intersection of machine learning, signal processing, and computational sensing. I develop methods that exploit the structure of sensor networks and physical systems to recover missing information, learn from limited measurements, and provide reliable predictions.
+    My research lies at the intersection of machine learning, signal processing, and computational sensing. I develop data-driven methods that exploit structure in physical systems, sensor networks, and time-varying signals. The goal is to make sensing systems more accurate, reliable, and interpretable, especially when measurements are sparse, noisy, biased, or expensive to obtain.
   </p>
 
   <figure class="research-page__overview">
