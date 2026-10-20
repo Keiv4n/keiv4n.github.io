@@ -744,6 +744,10 @@ progress {
      height: inherit;
  }
 
+.news table th {
+  font-weight: 700;
+}
+
 @media (max-width: 768px) {
   .news-scroll {
     max-height: 50vh !important;
