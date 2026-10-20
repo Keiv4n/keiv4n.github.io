@@ -8,7 +8,7 @@ layout: default
       {% if site.title == "blank" -%} <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }} {{
   site.last_name }}{%- else -%}{{ site.title }}{%- endif %}
     </h1>
-    <p class="desc"><strong>{{ page.subtitle }}</strong></p>
+    <p class="desc">{{ page.subtitle }}</p>
   </header>
   <article>
     {% if page.profile -%}
@@ -32,7 +32,7 @@ layout: default
       {%- endif %}
     </div>
     {%- endif %}
-    <div class="clearfix" style="text-align: justify">
+    <div class="clearfix" style="text-align: left">
       {{ content }}
     </div>
     <!-- News -->
