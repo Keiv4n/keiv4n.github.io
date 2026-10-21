@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-I am a Ph.D. candidate at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/), working under the supervision of [Prof. Olga Fink](https://people.epfl.ch/olga.fink?lang=en) in the [Intelligent Maintenance and Operations Systems (IMOS) Laboratory](https://imos.epfl.ch/). My research lies at the intersection of **signal processing, machine learning, and computational sensing**. I develop methods that exploit graph and temporal structure in sensor data.
+I am a Ph.D. candidate at the [École Polytechnique Fédérale de Lausanne (EPFL)](https://www.epfl.ch/), working under the supervision of [Prof. Olga Fink](https://people.epfl.ch/olga.fink?lang=en) in the [Intelligent Maintenance and Operations Systems (IMOS) Laboratory](https://imos.epfl.ch/). My research lies at the intersection of **signal processing, machine learning, and computational sensing**, where I develop structure-aware mathematical and learning-based methods that leverage graph and temporal dependencies in sensor data to extract information beyond what individual measurements reveal.
 
 During my Ph.D., I was a visiting researcher at the [University of Cambridge](https://www.cam.ac.uk/), working with [Prof. Alice Cicirello](https://www.eng.cam.ac.uk/profiles/ac685) in the [Data, Vibration and Uncertainty (DVU) Group](https://sites.google.com/view/dvugroup/home), and at the [Learning and Decisions Lab](https://www.learning-decision.dk/) at [Aalborg University](https://www.aau.dk/), Denmark, working with [Prof. Carsten Skovmose Kallesøe](https://vbn.aau.dk/en/persons/carsten-skovmose-kalles%C3%B8e/) and [Prof. Rafael Wisniewski](https://vbn.aau.dk/en/persons/raf/).
 
