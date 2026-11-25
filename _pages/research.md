@@ -15,22 +15,10 @@ My research lies at the intersection of machine learning, signal processing, and
 
 <div class="row mt-3 mb-4">
   <div class="col-sm-12">
-    <picture>
-      <source
-        media="(prefers-reduced-motion: reduce)"
-        srcset="{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}">
-      <img
-        id="research-overview-animation"
-        src="{{ '/assets/img/computational_sensing_four_systems_web_400w_6fps.gif' | relative_url }}?v=20261126"
-        class="img-fluid rounded z-depth-1"
-        width="400"
-        height="225"
-        style="display: block; width: 100%; height: auto;"
-        alt="Animated computational sensing: a bridge, district heating, EEG and electricity systems transform into graph signals"
-        decoding="async"
-        fetchpriority="high"
-        onerror="this.onerror=null;this.src='{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}';">
-    </picture>
+    <img src="/assets/img/computational_sensing_four_systems_web_400w_6fps.gif"
+         class="img-fluid rounded z-depth-1"
+         alt="Computational sensing animation"
+         style="width: 100%; height: auto;">
   </div>
 </div>
 
