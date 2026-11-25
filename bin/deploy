@@ -95,30 +95,6 @@ export JEKYLL_ENV=production
 # Build site
 bundle exec jekyll build
 
-# Build a lightweight, browser-independent animated GIF for the Research page.
-# It is generated in _site so the source repository does not need a large
-# tracked binary file, and it is published alongside the built site.
-RESEARCH_MP4="_site/assets/img/computational_sensing_four_systems_web_1080p.mp4"
-RESEARCH_GIF="_site/assets/img/computational_sensing_four_systems_web_400w_6fps.gif"
-if [ -f "$RESEARCH_MP4" ]; then
-    if ! command -v ffmpeg >/dev/null 2>&1; then
-        echo "FFmpeg is required to build the Research GIF." >&2
-        exit 1
-    fi
-    PALETTE_FILE="/tmp/research_palette_$.png"
-    ffmpeg -nostdin -hide_banner -loglevel error -y -i "$RESEARCH_MP4" \
-        -vf "fps=6,scale=400:-1:flags=lanczos,palettegen=stats_mode=diff" \
-        "$PALETTE_FILE"
-    ffmpeg -nostdin -hide_banner -loglevel error -y -i "$RESEARCH_MP4" -i "$PALETTE_FILE" \
-        -lavfi "fps=6,scale=400:-1:flags=lanczos[x];[x][1:v]paletteuse=dither=sierra2_4a:diff_mode=rectangle" \
-        -loop 0 "$RESEARCH_GIF"
-    rm -f "$PALETTE_FILE"
-    echo "Generated research animation: $RESEARCH_GIF"
-else
-    echo "Research MP4 not found at $RESEARCH_MP4" >&2
-    exit 1
-fi
-
 # Delete and move files
 find . -maxdepth 1 ! -name '_site' ! -name '.git' ! -name 'CNAME' ! -name '.gitignore' -exec rm -rf {} \;
 mv _site/* .
