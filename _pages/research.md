@@ -18,20 +18,21 @@ My research lies at the intersection of machine learning, signal processing, and
     <video
       id="research-overview-animation"
       class="img-fluid rounded z-depth-1"
-      style="display: block; width: 100%; height: auto;"
+      style="display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: #f5fbff;"
       width="1920"
       height="1080"
       autoplay
       muted
       loop
       playsinline
+      webkit-playsinline
       controls
       preload="auto"
-      poster="{{ '/assets/img/researchoverview.jpg' | relative_url }}"
-      aria-label="Four sensing systems transforming into graph signals: bridge, district heating, EEG, and electricity network"
+      poster="{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}"
+      aria-label="Computational sensing of bridge, district heating, EEG, and electrical networks"
     >
-      <source src="{{ '/assets/img/computational_sensing_four_systems_web_1080p.mp4' | relative_url }}" type="video/mp4">
-      <img src="{{ '/assets/img/researchoverview.jpg' | relative_url }}" class="img-fluid" alt="Overview of computational sensing research">
+      <source src="{{ '/assets/img/computational_sensing_four_systems_web_1080p.mp4' | relative_url }}?v=20261125b" type="video/mp4">
+      Your browser does not support HTML5 video.
     </video>
   </div>
 </div>
@@ -41,23 +42,21 @@ My research lies at the intersection of machine learning, signal processing, and
     var video = document.getElementById("research-overview-animation");
     if (!video) return;
 
-    // Keep the video visible even when autoplay is blocked on mobile.
-    // In that case the visitor can play it using the visible controls.
     video.muted = true;
-    var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    if (reduceMotion) {
+
+    // Show a nonmoving four-system poster when reduced motion is requested.
+    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
       video.autoplay = false;
       video.pause();
-      video.controls = true;
       return;
     }
-    var playPromise = video.play();
-    if (playPromise && typeof playPromise.then === "function") {
-      playPromise.then(function () {
-        video.controls = false;
-      }).catch(function () {
-        video.controls = true;
-      });
+
+    // On browsers that block autoplay, the poster and playback controls
+    // remain visible. On successful playback, hide the controls.
+    var playback = video.play();
+    if (playback && typeof playback.then === "function") {
+      playback.then(function () { video.controls = false; })
+              .catch(function () { video.controls = true; });
     }
   })();
 </script>
