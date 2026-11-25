@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" role="img" aria-label="Computational sensing across bridge, heating, EEG, and electrical systems">
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f8fcff"/><stop offset="1" stop-color="#e8f2f9"/></linearGradient>
+ <linearGradient id="water" x2="0" y2="1"><stop stop-color="#d9edf7"/><stop offset="1" stop-color="#edf8ff"/></linearGradient>
+ <linearGradient id="heat" x2="0" y2="1"><stop stop-color="#72d4e8"/><stop offset="0.65" stop-color="#4388d7"/><stop offset="1" stop-color="#2c5a91"/></linearGradient>
+ <linearGradient id="panel" x2="0" y2="1"><stop stop-color="#f8fcff"/><stop offset="1" stop-color="#e7f2fa"/></linearGradient>
+ <radialGradient id="spot"><stop stop-color="#fa9a52" stop-opacity=".9"/><stop offset=".65" stop-color="#64c6e7" stop-opacity=".5"/><stop offset="1" stop-color="#64c6e7" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="48" height="48" patternUnits="userSpaceOnUse"><circle cx="24" cy="24" r="1" fill="#aac7d9" opacity=".3"/></pattern>
+ <g id="node"><circle r="7" fill="#f7ffff" stroke="#1684c7" stroke-width="3"/><circle r="3" fill="#45d2ec"/></g>
+</defs>
+<rect width="1280" height="720" fill="#fff"/>
+<rect x="8" y="8" width="626" height="346" rx="12" fill="url(#sky)"/>
+<rect x="646" y="8" width="626" height="346" rx="12" fill="url(#panel)"/>
+<rect x="8" y="366" width="626" height="346" rx="12" fill="url(#panel)"/>
+<rect x="646" y="366" width="626" height="346" rx="12" fill="url(#sky)"/>
+<g opacity=".65"><rect x="8" y="8" width="626" height="346" fill="url(#dots)"/><rect x="646" y="8" width="626" height="346" fill="url(#dots)"/><rect x="8" y="366" width="626" height="346" fill="url(#dots)"/><rect x="646" y="366" width="626" height="346" fill="url(#dots)"/></g>
+<!-- Cable-stayed bridge -->
+<path d="M20 273 L621 273 L621 350 L20 350Z" fill="url(#water)"/>
+<g stroke="#688da9" stroke-linecap="round">
+ <path d="M50 235 L592 235" stroke-width="13"/>
+ <path d="M163 237 L163 71 M454 237 L454 71" stroke-width="12"/>
+ <path d="M163 75 L49 235 M163 75 L107 235 M163 75 L218 235 M163 75 L277 235 M454 75 L337 235 M454 75 L393 235 M454 75 L505 235 M454 75 L587 235" stroke-width="3" opacity=".85"/>
+ <path d="M163 75 L454 75" stroke-width="2" opacity=".4"/>
+</g>
+<g stroke="#28a7d4" stroke-width="2.3" opacity=".8"><path d="M65 227 L163 166 L265 227 L360 227 L454 166 L567 227"/><path d="M163 166 L163 75 M454 166 L454 75"/></g>
+<g transform="translate(65 227)"><use href="#node"/></g><g transform="translate(163 166)"><use href="#node"/></g><g transform="translate(265 227)"><use href="#node"/></g><g transform="translate(360 227)"><use href="#node"/></g><g transform="translate(454 166)"><use href="#node"/></g><g transform="translate(567 227)"><use href="#node"/></g>
+<!-- District heating system -->
+<g fill="#d0e1ed" stroke="#91b1c5" stroke-width="3"><rect x="694" y="102" width="92" height="114" rx="4"/><rect x="804" y="83" width="80" height="132" rx="4"/><rect x="904" y="123" width="104" height="94" rx="4"/><rect x="1030" y="96" width="172" height="121" rx="4"/></g>
+<g fill="#a7c6d9"><rect x="710" y="120" width="13" height="16"/><rect x="738" y="120" width="13" height="16"/><rect x="817" y="109" width="11" height="17"/><rect x="848" y="109" width="11" height="17"/><rect x="928" y="145" width="13" height="17"/><rect x="963" y="145" width="13" height="17"/></g>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round"><path d="M669 248 H784 V274 H899 V229 H1012 V267 H1220" stroke="#b5ccdb" stroke-width="33"/><path d="M669 248 H784 V274 H899 V229 H1012 V267 H1220" stroke="url(#heat)" stroke-width="20"/><path d="M668 305 H840 V316 H1066 V301 H1220" stroke="#d2e5ee" stroke-width="20"/><path d="M668 305 H840 V316 H1066 V301 H1220" stroke="#6abfdd" stroke-width="10"/></g>
+<g stroke="#2a9bd5" stroke-width="2.5" opacity=".8"><path d="M713 248 L784 274 L899 229 L1012 267 L1153 267"/><path d="M784 274 L840 316 L1066 301 L1153 267"/></g>
+<g transform="translate(713 248)"><use href="#node"/></g><g transform="translate(784 274)"><use href="#node"/></g><g transform="translate(899 229)"><use href="#node"/></g><g transform="translate(1012 267)"><use href="#node"/></g><g transform="translate(1153 267)"><use href="#node"/></g><g transform="translate(840 316)"><use href="#node"/></g><g transform="translate(1066 301)"><use href="#node"/></g>
+<!-- EEG head profile -->
+<path d="M253 655 C196 628 164 577 168 527 C174 453 243 401 316 402 C407 404 458 469 454 535 C451 567 426 580 415 595 L429 667 L252 667Z" fill="#d8e5eb" stroke="#8aaabe" stroke-width="5"/>
+<path d="M451 509 Q486 518 481 534 Q474 547 450 544 M441 560 Q460 578 433 586" fill="none" stroke="#8aaabe" stroke-width="5" stroke-linecap="round"/>
+<path d="M181 505 Q234 401 326 413 Q432 425 448 504" fill="none" stroke="#2f8ed0" stroke-width="10"/>
+<g stroke="#268db9" stroke-width="3" fill="none" opacity=".8"><path d="M203 469 L255 437 L318 428 L383 454 L430 499 L413 548 L361 570 L299 552 L245 531 L203 469"/><path d="M255 437 L299 552 M318 428 L361 570 M383 454 L245 531 M430 499 L299 552"/></g>
+<g transform="translate(203 469)"><use href="#node"/></g><g transform="translate(255 437)"><use href="#node"/></g><g transform="translate(318 428)"><use href="#node"/></g><g transform="translate(383 454)"><use href="#node"/></g><g transform="translate(430 499)"><use href="#node"/></g><g transform="translate(413 548)"><use href="#node"/></g><g transform="translate(361 570)"><use href="#node"/></g><g transform="translate(299 552)"><use href="#node"/></g><g transform="translate(245 531)"><use href="#node"/></g>
+<circle cx="318" cy="505" r="125" fill="url(#spot)" opacity=".22"/>
+<!-- Power transmission and substation -->
+<g stroke="#819caf" stroke-width="5" fill="none"><path d="M714 664 L756 444 L798 664 M735 551 H778 M722 610 H790 M721 510 H790 M756 444 V664"/><path d="M951 664 L1001 427 L1051 664 M975 546 H1026 M960 605 H1041 M962 506 H1040 M1001 427 V664"/><path d="M1153 664 L1184 477 L1215 664 M1161 580 H1208 M1184 477 V664"/></g>
+<g stroke="#96b9c8" stroke-width="3" fill="none"><path d="M714 510 Q849 570 962 505 M790 510 Q892 558 1040 506 M1040 506 Q1110 543 1161 540 M714 546 Q851 612 961 544"/></g>
+<g fill="none" stroke="#188fd1" stroke-width="3" opacity=".8"><path d="M756 445 L1001 428 L1184 478 L1001 546 L756 551 L1001 605 L1184 582"/><path d="M756 551 L756 643 L1001 605 L1184 643"/></g>
+<g transform="translate(756 445)"><use href="#node"/></g><g transform="translate(1001 428)"><use href="#node"/></g><g transform="translate(1184 478)"><use href="#node"/></g><g transform="translate(1001 546)"><use href="#node"/></g><g transform="translate(756 551)"><use href="#node"/></g><g transform="translate(1001 605)"><use href="#node"/></g><g transform="translate(1184 582)"><use href="#node"/></g><g transform="translate(756 643)"><use href="#node"/></g><g transform="translate(1184 643)"><use href="#node"/></g>
+</svg>
