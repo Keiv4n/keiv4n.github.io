@@ -15,51 +15,24 @@ My research lies at the intersection of machine learning, signal processing, and
 
 <div class="row mt-3 mb-4">
   <div class="col-sm-12">
-    <video
-      id="research-overview-animation"
-      class="img-fluid rounded z-depth-1"
-      style="display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; background: #f5fbff;"
-      width="1920"
-      height="1080"
-      autoplay
-      muted
-      loop
-      playsinline
-      webkit-playsinline
-      controls
-      preload="auto"
-      poster="{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}"
-      aria-label="Computational sensing of bridge, district heating, EEG, and electrical networks"
-    >
-      <source src="{{ '/assets/img/computational_sensing_four_systems_web_1080p.mp4' | relative_url }}?v=20261125b" type="video/mp4">
-      Your browser does not support HTML5 video.
-    </video>
+    <picture>
+      <source
+        media="(prefers-reduced-motion: reduce)"
+        srcset="{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}">
+      <img
+        id="research-overview-animation"
+        src="{{ '/assets/img/computational_sensing_four_systems_web_400w_6fps.gif' | relative_url }}?v=20261126"
+        class="img-fluid rounded z-depth-1"
+        width="400"
+        height="225"
+        style="display: block; width: 100%; height: auto;"
+        alt="Animated computational sensing: a bridge, district heating, EEG and electricity systems transform into graph signals"
+        decoding="async"
+        fetchpriority="high"
+        onerror="this.onerror=null;this.src='{{ '/assets/img/computational_sensing_four_systems_poster.svg' | relative_url }}';">
+    </picture>
   </div>
 </div>
-
-<script>
-  (function () {
-    var video = document.getElementById("research-overview-animation");
-    if (!video) return;
-
-    video.muted = true;
-
-    // Show a nonmoving four-system poster when reduced motion is requested.
-    if (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
-      video.autoplay = false;
-      video.pause();
-      return;
-    }
-
-    // On browsers that block autoplay, the poster and playback controls
-    // remain visible. On successful playback, hide the controls.
-    var playback = video.play();
-    if (playback && typeof playback.then === "function") {
-      playback.then(function () { video.controls = false; })
-              .catch(function () { video.controls = true; });
-    }
-  })();
-</script>
 
 <br>
 
