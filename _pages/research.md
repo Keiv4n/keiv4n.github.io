@@ -15,57 +15,50 @@ My research lies at the intersection of machine learning, signal processing, and
 
 <div class="row mt-3 mb-4">
   <div class="col-sm-12">
-    <img
-      id="research-overview-fallback"
-      src="{{ '/assets/img/researchoverview.jpg' | relative_url }}"
-      class="img-fluid rounded z-depth-1"
-      style="width: 100%;"
-      alt="Overview of computational sensing research"
-    >
     <video
       id="research-overview-animation"
       class="img-fluid rounded z-depth-1"
-      style="display: none; width: 100%; height: auto;"
+      style="display: block; width: 100%; height: auto;"
+      width="1920"
+      height="1080"
+      autoplay
       muted
       loop
       playsinline
-      preload="none"
-      aria-label="Animated computational sensing for four systems: bridge, district heating, EEG, and electric power network"
+      controls
+      preload="auto"
+      poster="{{ '/assets/img/researchoverview.jpg' | relative_url }}"
+      aria-label="Four sensing systems transforming into graph signals: bridge, district heating, EEG, and electricity network"
     >
       <source src="{{ '/assets/img/computational_sensing_four_systems_web_1080p.mp4' | relative_url }}" type="video/mp4">
+      <img src="{{ '/assets/img/researchoverview.jpg' | relative_url }}" class="img-fluid" alt="Overview of computational sensing research">
     </video>
   </div>
 </div>
 
 <script>
-  // Keep the existing static image if the video has not yet been uploaded,
-  // cannot play, or the visitor prefers reduced motion.
   (function () {
     var video = document.getElementById("research-overview-animation");
-    var fallback = document.getElementById("research-overview-fallback");
-    if (!video || !fallback ||
-        (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+    if (!video) return;
+
+    // Keep the video visible even when autoplay is blocked on mobile.
+    // In that case the visitor can play it using the visible controls.
+    video.muted = true;
+    var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    if (reduceMotion) {
+      video.autoplay = false;
+      video.pause();
+      video.controls = true;
       return;
     }
-
-    video.addEventListener("canplay", function () {
-      video.style.display = "block";
-      fallback.style.display = "none";
-      var playAttempt = video.play();
-      if (playAttempt && typeof playAttempt.catch === "function") {
-        playAttempt.catch(function () {
-          video.controls = true;
-        });
-      }
-    }, { once: true });
-
-    video.addEventListener("error", function () {
-      video.style.display = "none";
-      fallback.style.display = "block";
-    });
-
-    video.preload = "auto";
-    video.load();
+    var playPromise = video.play();
+    if (playPromise && typeof playPromise.then === "function") {
+      playPromise.then(function () {
+        video.controls = false;
+      }).catch(function () {
+        video.controls = true;
+      });
+    }
   })();
 </script>
 
