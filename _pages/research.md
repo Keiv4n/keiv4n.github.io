@@ -15,9 +15,59 @@ My research lies at the intersection of machine learning, signal processing, and
 
 <div class="row mt-3 mb-4">
   <div class="col-sm-12">
-    <img src="/assets/img/researchoverview.jpg" class="img-fluid rounded z-depth-1" alt="Overview">
+    <img
+      id="research-overview-fallback"
+      src="{{ '/assets/img/researchoverview.jpg' | relative_url }}"
+      class="img-fluid rounded z-depth-1"
+      style="width: 100%;"
+      alt="Overview of computational sensing research"
+    >
+    <video
+      id="research-overview-animation"
+      class="img-fluid rounded z-depth-1"
+      style="display: none; width: 100%; height: auto;"
+      muted
+      loop
+      playsinline
+      preload="none"
+      aria-label="Animated computational sensing for four systems: bridge, district heating, EEG, and electric power network"
+    >
+      <source src="{{ '/assets/img/computational_sensing_four_systems_web_1080p.mp4' | relative_url }}" type="video/mp4">
+    </video>
   </div>
 </div>
+
+<script>
+  // Keep the existing static image if the video has not yet been uploaded,
+  // cannot play, or the visitor prefers reduced motion.
+  (function () {
+    var video = document.getElementById("research-overview-animation");
+    var fallback = document.getElementById("research-overview-fallback");
+    if (!video || !fallback ||
+        (window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches)) {
+      return;
+    }
+
+    video.addEventListener("canplay", function () {
+      video.style.display = "block";
+      fallback.style.display = "none";
+      var playAttempt = video.play();
+      if (playAttempt && typeof playAttempt.catch === "function") {
+        playAttempt.catch(function () {
+          video.controls = true;
+        });
+      }
+    }, { once: true });
+
+    video.addEventListener("error", function () {
+      video.style.display = "none";
+      fallback.style.display = "block";
+    });
+
+    video.preload = "auto";
+    video.load();
+  })();
+</script>
 
 <br>
 
