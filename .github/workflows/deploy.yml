@@ -48,6 +48,12 @@ jobs:
 
           echo "DEPLOY_BRANCH=gh-pages" >> $GITHUB_OUTPUT
 
+      - name: Install FFmpeg for Research animation
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
+          ffmpeg -version | head -n 1
+
       - name: Deploy website
         run: |
           yes | bash bin/deploy --verbose ${{ steps.setup.outputs.NO_PUSH }} \
