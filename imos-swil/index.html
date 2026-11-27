@@ -61,11 +61,23 @@
 @media(max-width:760px){.hero{padding-top:36px}.hero-title{margin-bottom:18px}.hero .hero-title h1{gap:11px}.dataset-eyebrow{font-size:10px;letter-spacing:.035em;padding:5px 10px;gap:0 4px}.hero .dataset-wordmark{font-size:clamp(39px,10.6vw,72px)}}
 @media(forced-colors:active){.hero .dataset-wordmark{background:none;color:CanvasText}}
 
+
+/* Compact project identity, coordinated with the hero wordmark. */
+.nav .dataset-brand{display:inline-flex;align-items:center;gap:9px;font-family:"Inter",system-ui,-apple-system,"Segoe UI",sans-serif;font-size:18px;font-weight:800;letter-spacing:-.035em;line-height:1.2;white-space:nowrap;text-decoration:none}
+.nav .dataset-brand-icon{display:block;flex:0 0 28px;width:28px;height:28px;transition:transform .18s ease}
+.nav .dataset-brand-wordmark{color:#5a3ee6}
+@supports ((-webkit-background-clip:text) or (background-clip:text)){.nav .dataset-brand-wordmark{background:linear-gradient(100deg,#c0306f,#5a3ee6 50%,#087569);-webkit-background-clip:text;background-clip:text;color:transparent}}
+.nav .dataset-brand:hover .dataset-brand-icon{transform:translateY(-1px)}
+.nav .dataset-brand:hover{text-decoration:none}
+@media(max-width:760px){.nav .dataset-brand{font-size:17px;gap:8px}.nav .dataset-brand-icon{width:25px;height:25px;flex-basis:25px}}
+@media(prefers-reduced-motion:reduce){.nav .dataset-brand-icon{transition:none}}
+@media(forced-colors:active){.nav .dataset-brand-wordmark{background:none;color:LinkText}}
+
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"Dataset","name":"IMOS-SWIL District Heating Dataset","description":"Synchronized experimental thermo-hydraulic and smart-meter measurements from four operating conditions at Aalborg SWIL.","identifier":"https://doi.org/10.5281/zenodo.23127439","url":"https://keiv4n.github.io/imos-swil/","datePublished":"2026-10-05","version":"1.0.0","creator":[{"@type":"Person","name":"Keivan Faghih Niresi"},{"@type":"Person","name":"Christian Møller Jensen"},{"@type":"Person","name":"Carsten Skovmose Kallesøe"},{"@type":"Person","name":"Rafal Wisniewski"},{"@type":"Person","name":"Olga Fink"}],"distribution":[{"@type":"DataDownload","encodingFormat":"text/csv","contentUrl":"https://zenodo.org/records/23127439"}]}</script>
 </head>
 <body>
-<header class="nav"><div class="wrap"><a class="brand" href="#top">IMOS<span>–SWIL</span></a><nav class="navlinks" aria-label="Page sections"><a href="#overview">Overview</a><a href="#testbed">Testbed</a><a href="#dataset">Dataset</a><a href="#explore">Explore</a><a href="#benchmark">Benchmark</a><a href="#citation">Citation</a><a href="/">Home</a></nav></div></header>
+<header class="nav"><div class="wrap"><a class="brand dataset-brand" href="#top" aria-label="IMOS–SWIL, back to top"><svg class="dataset-brand-icon" viewBox="0 0 28 28" width="28" height="28" aria-hidden="true" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="brand-gradient" x1="0" y1="0" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#e05297"/><stop offset=".5" stop-color="#7b61ff"/><stop offset="1" stop-color="#2ec4b6"/></linearGradient></defs><rect width="28" height="28" rx="8" fill="url(#brand-gradient)"/><path d="M7 18L14 8L21 18M7 18H21" fill="none" stroke="white" stroke-opacity=".88" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/><g fill="white"><circle cx="7" cy="18" r="2.4"/><circle cx="14" cy="8" r="2.4"/><circle cx="21" cy="18" r="2.4"/></g></svg><span class="dataset-brand-wordmark">IMOS–SWIL</span></a><nav class="navlinks" aria-label="Page sections"><a href="#overview">Overview</a><a href="#testbed">Testbed</a><a href="#dataset">Dataset</a><a href="#explore">Explore</a><a href="#benchmark">Benchmark</a><a href="#citation">Citation</a><a href="/">Home</a></nav></div></header>
 <main id="top" class="wrap">
 <div class="hero">
 <div class="hero-title">
