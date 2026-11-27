@@ -30,18 +30,18 @@ nav_order: 3.5
   <article class="open-data-card">
     <div class="open-data-icon" aria-hidden="true"><i class="fas fa-network-wired"></i></div>
     <div class="open-data-type">Synthetic dataset</div>
-    <h2><a href="/imos-sdh/">SDH</a></h2>
+    <h2><a href="https://epfl-imos.github.io/sdh/">SDH</a></h2>
     <p><strong>Synthetic District Heating Network.</strong> A simulation-based benchmark generated using TESPy, with thermal and hydraulic sensor signals and physics-derived information for evaluating virtual sensing and graph-based learning.</p>
     <div class="open-data-tags"><span class="open-data-tag">Simulation</span><span class="open-data-tag">Soft sensing</span><span class="open-data-tag">Graph learning</span></div>
-    <a class="open-data-link" href="/imos-sdh/" aria-label="Explore the SDH dataset">Explore dataset <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+    <a class="open-data-link" href="https://epfl-imos.github.io/sdh/" aria-label="Explore the SDH dataset">Explore dataset <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
   </article>
   <article class="open-data-card">
     <div class="open-data-icon" aria-hidden="true"><i class="fas fa-flask"></i></div>
     <div class="open-data-type">Experimental dataset</div>
-    <h2><a href="/imos-swil/">IMOS–SWIL</a></h2>
+    <h2><a href="https://epfl-imos.github.io/imos-swil/">IMOS–SWIL</a></h2>
     <p><strong>District Heating Dataset.</strong> Synchronized measurements from a physical district heating testbed at Aalborg University's Smart Water Infrastructures Laboratory, supporting virtual smart metering and multivariate time-series learning.</p>
     <div class="open-data-tags"><span class="open-data-tag">Experimental data</span><span class="open-data-tag">Virtual metering</span><span class="open-data-tag">Time series</span></div>
-    <a class="open-data-link" href="/imos-swil/" aria-label="Explore the IMOS–SWIL dataset">Explore dataset <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
+    <a class="open-data-link" href="https://epfl-imos.github.io/imos-swil/" aria-label="Explore the IMOS–SWIL dataset">Explore dataset <i class="fas fa-arrow-right" aria-hidden="true"></i></a>
   </article>
 </div>
 
